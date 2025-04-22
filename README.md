@@ -1,1 +1,12 @@
-# Proyecto de Simulaci 礸il - Crystal Clear
+# Proyecto de Simulaci贸n 脕gil - Crystal Clear
+
+Este repositorio contiene la simulaci贸n de un proyecto gestionado con la metodolog铆a 谩gil Crystal Clear, como parte del curso de Sistemas de Informaci贸n.
+
+## Herramientas
+- Gesti贸n: Notion
+- Comunicaci贸n: WhatsApp, Google Meet
+- Control de versiones: GitHub
+- Almacenamiento: Google Drive
+
+## Objetivo
+Simular el avance planificado de un sistema de informaci贸n con una metodolog铆a 谩gil distinta al proyecto original.
