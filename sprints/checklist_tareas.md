@@ -1,0 +1,4 @@
+- [x] Crear repositorio
+- [x] Definir metodolog¡a
+- [x] Crear tareas en Notion
+- [ ] Subir documento final
